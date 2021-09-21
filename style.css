@@ -1,5 +1,33 @@
 body{
-    color: white;
-    background-size: cover;
-    background-image: url("https://jooinn.com/images/velvet-stage-curtain-5.jpg");
+  color: white;
+  background-size: cover;
+  background-image: url("https://jooinn.com/images/velvet-stage-curtain-5.jpg");
+  background-repeat: no-repeat;
 }
+
+h1#marquee {
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-size: 5em;
+    text-align: center;
+}
+
+h2 {
+  background-image: url("https://live.staticflickr.com/3458/3232147590_74b6d340ed_b.jpg");
+  background-size:contain;
+  background-repeat: repeat-x;
+}
+
+
+/*
+div#popcorn1{
+  img.max-width: 300px;
+  img.max-height: 300px;
+}
+
+div#popcorn2{}
+div#popcorn3{}
+div#popcorn4{}
+div#popcorn5{}
+div#popcorn6{}
+div#popcorn7{}
+*/
