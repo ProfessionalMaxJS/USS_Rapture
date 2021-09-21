@@ -12,22 +12,8 @@ h1#marquee {
 }
 
 h2 {
-  background-image: url("https://live.staticflickr.com/3458/3232147590_74b6d340ed_b.jpg");
+  background-image: url("https://www.stockvault.net/data/2015/07/20/174861/preview16.jpg");
   background-size:contain;
   background-repeat: repeat-x;
 }
 
-
-/*
-div#popcorn1{
-  img.max-width: 300px;
-  img.max-height: 300px;
-}
-
-div#popcorn2{}
-div#popcorn3{}
-div#popcorn4{}
-div#popcorn5{}
-div#popcorn6{}
-div#popcorn7{}
-*/
