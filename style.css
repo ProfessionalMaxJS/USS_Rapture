@@ -12,18 +12,29 @@ h1#marquee {
 }
 
 h2{
+  color: whitesmoke;
   font-size: 20px;
-  font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif
+  font-family: 'Times New Roman', Times, serif;
 }
 
 h3{
+  color: whitesmoke;
   font-size: 15px;
-  font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+  font-family: Georgia, 'Times New Roman', Times, serif
 }
 
-div#popcorn {
-  background-image: url("https://www.stockvault.net/data/2015/07/20/174861/preview16.jpg");
+#popcorn {
+  background-image: url("https://www.tinyurl.com/USSRapture");
+  height: 100px;
   background-size:contain;
   background-repeat: repeat-x;
+}
+
+#popcorn:hover{
+  background-image: url("https://www.stockvault.net/data/2015/07/20/174861/preview16.jpg");
+  height: 100px;
+  background-size:contain;
+  background-repeat: repeat-x;
+}
 }
 
