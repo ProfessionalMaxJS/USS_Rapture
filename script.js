@@ -16,7 +16,7 @@ function pop(){
   sound.play(); 
 } 
 
-poppingCorn.addEventListener('pointerover', function() {  
+poppingCorn.addEventListener('click', function() {  
   pop();
   });
 
