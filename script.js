@@ -9,7 +9,6 @@ const sound = new Audio ("http://free-loops.com/data/mp3/99/06/3d1ab5397b3a44e4c
 document.querySelector("body").appendChild(sound);
 //"grabs" popcorn sound effect and adds it to the HTML body
 
-
 const poppingCorn = document.getElementById("popcorn");
 
 function pop(){
